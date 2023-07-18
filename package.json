@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/thomasdavis/resume/issues"
   },
-  "homepage": "https://github.com/thomasdavis/resume#readme"
+  "homepage": "https://github.com/thomasdavis/resume#readme",
+  "dependencies": {
+    "jsonresume-theme-macchiato": "^1.1.0"
+  }
 }
