@@ -1,25 +1,26 @@
 {
-  "name": "thomasdavis",
-  "version": "1.0.0",
-  "description": "This is the resume of Thomas Davis. God of web development.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/thomasdavis/resume.git"
-  },
-  "keywords": [
-    "resume"
-  ],
-  "author": "Thomas Davis",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/thomasdavis/resume/issues"
-  },
-  "homepage": "https://github.com/thomasdavis/resume#readme",
-  "dependencies": {
-    "jsonresume-theme-macchiato": "^1.1.0"
-  }
+	"name": "thomasdavis",
+	"version": "1.0.0",
+	"description": "This is the resume of Thomas Davis. God of web development.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"resume": "resume export --theme=macchiato --resume resume.json resume.html resume.pdf"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/thomasdavis/resume.git"
+	},
+	"keywords": [
+		"resume"
+	],
+	"author": "Thomas Davis",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/thomasdavis/resume/issues"
+	},
+	"homepage": "https://github.com/thomasdavis/resume#readme",
+	"dependencies": {
+		"jsonresume-theme-macchiato": "^1.1.0"
+	}
 }

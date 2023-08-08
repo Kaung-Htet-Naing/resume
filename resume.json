@@ -9,8 +9,8 @@
 		"location": {
 			"postalCode": "50100",
 			"city": "Chiang Mai",
-			"countryCode": "Thiland",
-			"region": "Thiland"
+			"countryCode": "TH",
+			"region": "Thailand"
 		},
 		"profiles": [
 			{
@@ -29,7 +29,8 @@
 		{
 			"name": "Digit House Co.,Ltd",
 			"position": "Front-End Developer",
-			"startDate": "2022-01",
+			"startDate": "2022-01-01",
+			"url": "",
 			"highlights": [
 				"Developed and designed a Myanmar fonts downloader website using Next.js.",
 				"Implemented intuitive and user-friendly interfaces for the website, allowing users to easily navigate and search for their desired fonts.",
@@ -46,8 +47,8 @@
 		{
 			"name": "Company",
 			"position": "React Naitve Developer",
-			"startDate": "2021-01",
-			"endDate": "2021-10",
+			"startDate": "2021-01-06",
+			"endDate": "2021-10-06",
 			"highlights": [
 				"Collaborated on stages of systems development lifecycle from requirement gathering to production releases.",
 				"Revised, modularized and updated old code bases to modern development standards, reducing operating costs, and improving functionality.",
@@ -71,8 +72,7 @@
 	],
 	"skills": [
 		{
-			"name": "Web Development",
-			"level": "Master",
+			"name": "Front-End Development",
 			"keywords": [
 				"HTML",
 				"CSS",
